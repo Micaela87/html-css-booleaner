@@ -1,0 +1,98 @@
+/*stile banner*/
+.banner {
+    background-color:#007fff;
+    background-image: url('../img/pattern.png');
+    background-size: 25% 200px;
+    width: 100%;
+    height: 100px;
+}
+
+.banner img {
+    width: 15%;
+    position: relative;
+    top: 40px;
+}
+
+/*stile introduzione articolo*/
+h1 {
+   font-weight: bolder;
+   margin-bottom: 3px;
+}
+.autori {
+    margin-top: 0;
+    color: rgb(128, 128, 128);
+    font-size: 15px;
+    line-height: 0.9;
+}
+#the_booleaner {
+    color: #00ccff;
+}
+
+#data {
+    font-size: 10px;
+}
+
+.didascalia {
+    margin-top: 0;
+    font-size: 10px;
+}
+
+/*stile testo evidenziato*/
+.testo_evidenziato {
+    background-color: rgb(238, 225, 113);
+}
+
+/*stile elenco puntato*/
+ul {
+    position: relative;
+    left: -20px;
+}
+
+/*stile tabella*/
+table {
+    border-collapse: collapse;
+    text-align: left;
+}
+
+th {
+    color: white;
+    background-color: #00ccff;
+}
+
+.column {
+    width: 20%;
+}
+
+.riga_evidenziata {
+    background-color: rgb(155, 210, 228);
+}
+
+/*stile footer*/
+h3 {
+    color: rgb(128, 128, 128);
+    font-size: 15px;
+}
+
+.contenitore {
+    width: auto;
+    height: 200px;
+    margin-bottom: 3px;
+}
+
+.testo {
+    color: white;
+    font-weight: bold;
+    margin-left: 10px;
+    position: relative;
+    top: 5px;
+}
+
+#img_uno {
+    background-image: url('../img/monitor.jpg');
+    background-repeat: no-repeat;
+}
+
+#img_due {
+    background-image: url('../img/graph.jpg');
+    background-repeat: no-repeat;
+}
