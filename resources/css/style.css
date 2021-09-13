@@ -73,14 +73,15 @@ h3 {
     font-size: 15px;
 }
 
-.paragrafo_footer {
-    color: white;
-    font-weight: bold;
+.contenitore {
     width: auto;
     height: 200px;
+    margin-bottom: 3px;
 }
 
 .testo {
+    color: white;
+    font-weight: bold;
     margin-left: 10px;
     position: relative;
     top: 5px;
